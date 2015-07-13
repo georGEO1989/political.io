@@ -1,0 +1,24 @@
+06/23
+-Changed the locating process to using addresses. 
+-Need to create more validation for the address so that the format can be correct
+
+07/13
+-Got the array to be completely associative and was able to break down and look over the json results
+-Need to build an interface around it, and create a workflow so that we have a plan for the IU/UX
+
+07/14
+-Above is still true, need to build all that
+-Added a signup page from https://github.com/panique/php-login-minimal
+get it going please
+
+06/18/2015
+-started the signup process
+-need to finish and test against database
+-need to create AJAX request to verify email address
+-also need to finish the database update
+
+07/12/2015
+-created a new database for app
+-setup PHP validation
+-still need to setup the above
+-
