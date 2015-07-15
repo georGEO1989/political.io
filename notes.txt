@@ -21,4 +21,8 @@ get it going please
 -created a new database for app
 -setup PHP validation
 -still need to setup the above
--
+
+07/13/2015
+-finished the insert statement for the signup page 
+-figure out why I can't query the database 
+-firgure out why I can't find the record
