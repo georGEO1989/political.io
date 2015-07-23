@@ -65,7 +65,7 @@ $states = statesList();
 <div class="container">
 	<h2>Please Sign Up here!</h2>
 
-	<form role="form" action="sign_up.php" method="post">
+	<form role="form" action="sign_up_convert_to_class.php" method="post">
 	<div class="form-group">
     	<label for="firstName">First Name</label>
     	<input type="name" name="first_name" class="form-control" id="firstName" placeholder="Enter First Name">
