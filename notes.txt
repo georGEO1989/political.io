@@ -26,3 +26,5 @@ get it going please
 -finished the insert statement for the signup page 
 -figure out why I can't query the database 
 -firgure out why I can't find the record
+
+-See trello
