@@ -14,7 +14,7 @@
 				<li>Home</li>
 				<li>About</li>
 				<li><a href="../classes/sign_in.php">Sign In</a></li>
-				<li><a href="http://localhost/test/political.io/app/classes/register.php">Sign Up</a></li>
+				<li><a href="./classes/register.php">Sign Up</a></li>
 			</ul>
 		</nav>
 	</header>
